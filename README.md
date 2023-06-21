@@ -46,6 +46,8 @@
 
 # Sprint 1
 
+- **Sprint Notları:** Backlogların içinde yazan metodlar dahilinde componentsler oluşturulup bunun dahilinde tasklar yapılmaktadır. Yazdığımız metodlar user story işlevi görmektedir.
+
 - **Sprint içinde tamamlanması tahmin edilen puan:** 100
 
 - **Puan tamamlama mantığı:** Üç sprint için hesaplanan Backlog puanı 320'dir. İlk sprint için 100 puanın yeterli olacağını hesapladık.
